@@ -1,0 +1,12 @@
+ .org {
+    display: inline-flex;
+  
+}
+.c1 {
+    width: 50px;
+    height: 500PX;
+    justify-content: center;
+    padding: 150px;
+    border-radius: 100px;
+}
+
