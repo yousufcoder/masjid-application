@@ -9,10 +9,12 @@ const Logo = () => {
       <Tilt
         className='Tilt'
         options={{ max: 35 }}
-        style={{ borderradius: '150px', height: 20, width: 20 }}
+        style={{ height: 5, width: 5 }}
       >
-        <div className='Tilt-inner pr3'>
-          <img style={{ paddingTop: '5px' }} alt='logo' src={masjid1} />
+        <div className='org'>
+          <div className='Tilt-inner'>
+            <img alt='logo' src={masjid1} />
+          </div>
         </div>
       </Tilt>
     </div>

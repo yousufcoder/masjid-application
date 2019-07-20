@@ -10,7 +10,7 @@ const Organizer = () => {
       </div>
       <div className='c1'>
         <i class='fa fa-users fa-5x' />
-        <h3>Users1</h3>
+        <h3>Users2</h3>
       </div>
     </div>
   )
